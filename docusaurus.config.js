@@ -11,9 +11,9 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Mediex App Documentation',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://mediex-app-documents.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -21,8 +21,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'phuong-mobile', // Usually your GitHub org/user name.
+  projectName: 'Mediex App', // Usually your repo name.
 
   presets: [
     [
@@ -34,14 +34,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/KOD-dev/mediex-app.git',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/KOD-dev/mediex-app.git',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -54,9 +54,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Meta Project',
+        title: 'Mediex App',
         logo: {
-          alt: 'My Meta Project Logo',
+          alt: 'Mediex App Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -69,7 +69,7 @@ const config = {
           {to: 'blog', label: 'Blog', position: 'left'},
           // Please keep GitHub link to the right for consistency.
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/KOD-dev/mediex-app.git',
             label: 'GitHub',
             position: 'right',
           },
@@ -84,10 +84,6 @@ const config = {
               {
                 label: 'Style Guide',
                 to: 'docs/',
-              },
-              {
-                label: 'Second Doc',
-                to: 'docs/doc2',
               },
             ],
           },
@@ -117,7 +113,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/KOD-dev/mediex-app.git',
               },
             ],
           },
