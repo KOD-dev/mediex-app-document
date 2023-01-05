@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmediex_app_document=self.webpackChunkmediex_app_document||[]).push([[441],{3886:e=>{e.exports=JSON.parse('{"permalink":"/mediex-app-document/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

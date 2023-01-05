@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmediex_app_document=self.webpackChunkmediex_app_document||[]).push([[120],{5648:e=>{e.exports=JSON.parse('{"permalink":"/mediex-app-document/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

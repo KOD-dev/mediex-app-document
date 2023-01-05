@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmediex_app_document=self.webpackChunkmediex_app_document||[]).push([[773],{4660:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/mediex-app-document/blog/tags/hello","allTagsPath":"/mediex-app-document/blog/tags","count":2}')}}]);

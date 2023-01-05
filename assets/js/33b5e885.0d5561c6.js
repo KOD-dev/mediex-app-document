@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmediex_app_document=self.webpackChunkmediex_app_document||[]).push([[75],{4068:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/mediex-app-document/blog/tags/facebook","allTagsPath":"/mediex-app-document/blog/tags","count":1}')}}]);
