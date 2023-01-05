@@ -13,16 +13,16 @@
 const config = {
   title: 'Mediex App Documentation',
   tagline: 'The tagline of my site',
-  url: 'https://mediex-app-documents.com',
-  baseUrl: '/',
+  url: 'https://KOD-dev.github.io',
+  baseUrl: '/mediex-app-document',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'phuong-mobile', // Usually your GitHub org/user name.
-  projectName: 'Mediex App', // Usually your repo name.
+  organizationName: 'KOD-dev', // Usually your GitHub org/user name.
+  projectName: 'mediex-app-document', // Usually your repo name.
 
   presets: [
     [
@@ -62,7 +62,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'installation',
             position: 'left',
             label: 'Tutorial',
           },
